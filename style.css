@@ -5,3 +5,16 @@
 #header-nav {
   height: 41px;
 }
+
+.logo {
+  width: 45px;
+  height: 45px;
+}
+
+.container-fluid img {
+  max-height: 550px;
+}
+
+#header-slide {
+  padding: 0;
+}
