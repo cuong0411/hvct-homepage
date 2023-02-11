@@ -18,3 +18,10 @@
 #header-slide {
   padding: 0;
 }
+
+#btn-tin-tuc-khac:hover {
+  color: #fff !important;
+  background-color: red !important;
+  transform: scale(0.9);
+  transition: .4s ease-in-out;
+}
